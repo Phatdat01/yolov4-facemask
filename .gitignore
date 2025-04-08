@@ -1,0 +1,15 @@
+.venv
+**/.venv
+__pycache__
+**/__pycache__
+**/cfg
+**/data
+**/conMatrix
+**/Model
+**/static
+**/templates
+*.json
+**/*.json
+**/app.py
+**/client.py
+**/conMatrix.py

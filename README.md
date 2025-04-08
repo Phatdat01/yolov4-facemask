@@ -7,7 +7,7 @@
 
 ## From this, you can think this project also has auto label for facemask.
 
-## Demo: <a href="https://youtu.be/MyfZsegSEF4" target="_parent"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTys8opWKLszlrePXJAVYMHAGri48cYshFndw&usqp=CAU" width=30/></a>
+## Demo: <a href="https://youtu.be/XJLhcf9968Y" target="_parent"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTys8opWKLszlrePXJAVYMHAGri48cYshFndw&usqp=CAU" width=30/></a>
 
 ## This is main Web:
 ![main Web](mainWeb.jpg)

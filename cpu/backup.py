@@ -198,6 +198,7 @@ def image():
                        objectInFireBase[0][4], objectInFireBase[0][5], objectInFireBase[0][6], objectInFireBase[0][4])
             # f.close()
         print(f"to:   {datetime.now().strftime(formatDatetime)}")
+        print(res)
         return res
     return {}
 
